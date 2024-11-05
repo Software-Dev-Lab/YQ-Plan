@@ -59,6 +59,8 @@ git flow
 + card
 + backtop
 + layout
++ upload
++ affix
 
 #### v1.0.2 版本
 
