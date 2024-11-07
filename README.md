@@ -52,16 +52,16 @@ CSS模块  Sass Less Stylus
 
 git flow
 
-计划发布组件:
+计划发布组件（v1.0.0 版本）:
 
-+ icon
++ icon ✅
 + button
 + loading
 + avatar
 + card
 + backtop
 + layout
-+ upload
++ upload ✅
 + affix
 
 #### v1.0.2 版本
