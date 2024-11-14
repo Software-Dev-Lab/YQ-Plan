@@ -22,13 +22,12 @@
 
 + icon ✅
 + button
-+ loading
-+ avatar
++ avatar ✅
 + card
 + backtop
-+ layout
++ layout ✅
 + upload ✅
-+ affix
++ affix ✅
 
 #### v1.0.2 版本
 
