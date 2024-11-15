@@ -23,8 +23,7 @@
 + icon ✅
 + button
 + avatar ✅
-+ card
-+ y-loading
++ card ✅
 + backtop
 + layout ✅
 + upload ✅
