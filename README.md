@@ -10,14 +10,14 @@
 
 计划发布组件（v1.0.0 版本, 后续版本继续迭代优化）
 
-+ icon ✅
-+ button
-+ avatar ✅
-+ card ✅
-+ backtop
-+ layout ✅
-+ upload ✅
-+ affix ✅
++ 图标 icon ✅
++ 按钮 button
++ 头像 avatar ✅
++ 卡片 card ✅
++ 回到顶部 backtop
++ 布局容器 Container ✅
++ 文件上传 upload ✅
++ 定钉 affix ✅
 
 #### v1.0.2 版本
 
